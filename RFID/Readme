@@ -1,5 +1,7 @@
-Default_universal_value_entry - (should work on all RFID readers for buildings)
-uses the default FF FF FF FF FF code and should open any RFID reader on buildings
+Default_universal_value_entry - (should work on all RFID readers for buildings*)
+uses the default FF FF FF FF FF code and should* open any RFID reader on buildings
+
+OK this works on low quality chineasium RFID readers so please do not expect it to work on everysingle one
 
 
 (USE RESPONSIBLY I AM NOT RESPONSIBLE FOR ANY MISUSE DONE WITH THIS)
